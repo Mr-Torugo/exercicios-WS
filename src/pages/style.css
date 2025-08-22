@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(54, 228, 161);
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+  }
+
+  .container-button {
+    position:absolute;
+    left: 43%;
+
+
+
+  }
+
+  .button {
+    background-color: #eeeeee;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10%;
+  }
